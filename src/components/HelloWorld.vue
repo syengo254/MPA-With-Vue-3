@@ -4,10 +4,10 @@
 
     <ul>
       <li>
-        <a href="/profile.html">profile</a>
+        <a href="./profile.html">profile</a>
       </li>
       <li>
-        <a href="/settings.html">Settings</a>
+        <a href="./settings.html">Settings</a>
       </li>
     </ul>
   </div>
